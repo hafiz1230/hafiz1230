@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafiz1230
 - 👀 I’m interested in Python, Flutter, Firebase, C++, C, Html, Java, CSS, Matlab
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on with everyone who respect me
+- 💞️ I’m looking to collaborate with everyone who respect me
 - 📫 How to reach me ... (0136954741- Malaysia)
 
 <!---
